@@ -8,3 +8,11 @@ body {
     color: black;
     border-width: 10px;
 }
+
+#bobabutton{
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+    
